@@ -8,5 +8,5 @@ https://campuspress.yale.edu/shrikantpawar/files/2024/08/4-300x300.jpeg
 https://campuspress.yale.edu/shrikantpawar/files/2024/08/6-225x300.jpeg
 https://campuspress.yale.edu/shrikantpawar/files/2024/08/7-e1722602337825-225x300.jpeg
 https://campuspress.yale.edu/shrikantpawar/files/2024/08/Atmiya-Presentation.pptx
-selected function(neuralnet, colMedians, do.call, compute, randomForest, predict, confusionMatrix, svm, ggplot, predict, table, factor, glm, wald.test, as.numeric, sum, maxmindf, na.omit, rbind, mean)
+Random-Forest-Tutorial.R: selected function(neuralnet, colMedians, do.call, compute, randomForest, predict, confusionMatrix, svm, ggplot, predict, table, factor, glm, wald.test, as.numeric, sum, maxmindf, na.omit, rbind, mean)
 
